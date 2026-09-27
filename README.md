@@ -18,3 +18,8 @@ Generative AI and modern web technologies.
 <p align="center">
   <img src="./profile/top-langs.svg" />
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</p>
